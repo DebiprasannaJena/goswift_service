@@ -1,0 +1,6 @@
+Time: 19-12-2022 12:53:33 PM For RequestMethod: SWPPushDataCNET
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":"2022064339","CAFNo":"IDCO/OA/2877","IndustryCode":"170900602969","statuscode":"4","ProcessingFeeAmount":"","ProcessingFeeStatus":"","PaymentReferenceNo":"","ProcessingFeeRealizationStatus":"Processing Fee Received.","DemandNoteLink":"","DemandStatus":"1","DemandReceipt":"","AllotmentOrderLink":"","PaymentRealizationReferenceNo":"121651224","IDCOStatus":"Ad check (In-progress)","successmessage":null,"IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
+Time: 19-12-2022 12:53:57 PM For RequestMethod: SWPPushDataCNET
+InputOutput: (RESPONSE_FROM_GOSWIFT)--[INPUT_VALIDITY_STATUS]:- 1 <----> [RESPONSE_JSON_STRING]:- {"StatusMsg":"Demand note link cant\u0027t be blank !","Status":4}
+-----------------------------------------------------------

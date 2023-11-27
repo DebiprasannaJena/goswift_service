@@ -1,0 +1,72 @@
+Time: 27/12/2022 11:36:26 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.CnetDAL.CnetDAL.UpdatePEALIngrationWithIDCOStatus(CNET objDATA) in e:\SWP_Services\App_Code\DAL\CNET_DAL\CnetDAL.cs:line 51
+Source: App_Code._4x0w5fx
+TargetSite: System.Collections.Generic.List`1[EntityLayer.CNETEntity.CNETPushDataStatus] UpdatePEALIngrationWithIDCOStatus(EntityLayer.CNETEntity.CNET)
+-----------------------------------------------------------
+
+Time: 27/12/2022 11:41:39 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.CnetDAL.CnetDAL.UpdatePEALIngrationWithIDCOStatus(CNET objDATA) in e:\SWP_Services\App_Code\DAL\CNET_DAL\CnetDAL.cs:line 51
+Source: App_Code.e0cnsgli
+TargetSite: System.Collections.Generic.List`1[EntityLayer.CNETEntity.CNETPushDataStatus] UpdatePEALIngrationWithIDCOStatus(EntityLayer.CNETEntity.CNET)
+-----------------------------------------------------------
+
+Time: 27/12/2022 11:43:04 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.CnetDAL.CnetDAL.UpdatePEALIngrationWithIDCOStatus(CNET objDATA) in e:\SWP_Services\App_Code\DAL\CNET_DAL\CnetDAL.cs:line 51
+Source: App_Code.e0cnsgli
+TargetSite: System.Collections.Generic.List`1[EntityLayer.CNETEntity.CNETPushDataStatus] UpdatePEALIngrationWithIDCOStatus(EntityLayer.CNETEntity.CNET)
+-----------------------------------------------------------
+
+Time: 27/12/2022 11:49:48 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.CnetDAL.CnetDAL.UpdatePEALIngrationWithIDCOStatus(CNET objDATA) in e:\SWP_Services\App_Code\DAL\CNET_DAL\CnetDAL.cs:line 51
+Source: App_Code.6wcm8xkj
+TargetSite: System.Collections.Generic.List`1[EntityLayer.CNETEntity.CNETPushDataStatus] UpdatePEALIngrationWithIDCOStatus(EntityLayer.CNETEntity.CNET)
+-----------------------------------------------------------
+
+Time: 27/12/2022 01:21:41 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.CnetDAL.CnetDAL.UpdatePEALIngrationWithIDCOStatus(CNET objDATA) in e:\SWP_Services\App_Code\DAL\CNET_DAL\CnetDAL.cs:line 51
+Source: App_Code.al2njp6q
+TargetSite: System.Collections.Generic.List`1[EntityLayer.CNETEntity.CNETPushDataStatus] UpdatePEALIngrationWithIDCOStatus(EntityLayer.CNETEntity.CNET)
+-----------------------------------------------------------
+
+Time: 27/12/2022 02:28:09 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.CnetDAL.CnetDAL.UpdatePEALIngrationWithIDCOStatus(CNET objDATA) in e:\SWP_Services\App_Code\DAL\CNET_DAL\CnetDAL.cs:line 51
+Source: App_Code.iqtf-gfj
+TargetSite: System.Collections.Generic.List`1[EntityLayer.CNETEntity.CNETPushDataStatus] UpdatePEALIngrationWithIDCOStatus(EntityLayer.CNETEntity.CNET)
+-----------------------------------------------------------
+
+Time: 27/12/2022 02:31:13 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.CnetDAL.CnetDAL.UpdatePEALIngrationWithIDCOStatus(CNET objDATA) in e:\SWP_Services\App_Code\DAL\CNET_DAL\CnetDAL.cs:line 51
+Source: App_Code.to_43ytb
+TargetSite: System.Collections.Generic.List`1[EntityLayer.CNETEntity.CNETPushDataStatus] UpdatePEALIngrationWithIDCOStatus(EntityLayer.CNETEntity.CNET)
+-----------------------------------------------------------
+
+Time: 27/12/2022 02:32:19 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.CnetDAL.CnetDAL.UpdatePEALIngrationWithIDCOStatus(CNET objDATA) in e:\SWP_Services\App_Code\DAL\CNET_DAL\CnetDAL.cs:line 51
+Source: App_Code.to_43ytb
+TargetSite: System.Collections.Generic.List`1[EntityLayer.CNETEntity.CNETPushDataStatus] UpdatePEALIngrationWithIDCOStatus(EntityLayer.CNETEntity.CNET)
+-----------------------------------------------------------
+
+Time: 27/12/2022 02:34:35 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.CnetDAL.CnetDAL.UpdatePEALIngrationWithIDCOStatus(CNET objDATA) in e:\SWP_Services\App_Code\DAL\CNET_DAL\CnetDAL.cs:line 51
+Source: App_Code.to_43ytb
+TargetSite: System.Collections.Generic.List`1[EntityLayer.CNETEntity.CNETPushDataStatus] UpdatePEALIngrationWithIDCOStatus(EntityLayer.CNETEntity.CNET)
+-----------------------------------------------------------
+

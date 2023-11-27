@@ -1,0 +1,6 @@
+Time: 21-12-2022 12:02:15 PM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":"2022084508","CAFNo":"IDCO/OA/2909","IndustryCode":"170400602150","statuscode":null,"ProcessingFeeAmount":null,"ProcessingFeeStatus":null,"PaymentReferenceNo":null,"ProcessingFeeRealizationStatus":null,"DemandNoteLink":null,"DemandStatus":null,"DemandReceipt":null,"AllotmentOrderLink":null,"PaymentRealizationReferenceNo":null,"IDCOStatus":null,"successmessage":"APPLICATION IS REACHED AT IDCO END!!","IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
+Time: 21-12-2022 12:02:38 PM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (RESPONSE_FROM_GOSWIFT)--[INPUT_VALIDITY_STATUS]:- 0 <----> [RESPONSE_JSON_STRING]:- {"StatusMsg":"Invalid Proposal Number","Status":1}
+-----------------------------------------------------------

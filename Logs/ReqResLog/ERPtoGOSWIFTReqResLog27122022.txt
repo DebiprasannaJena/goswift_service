@@ -1,0 +1,33 @@
+Time: 27/12/2022 11:34:53 AM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":"","CAFNo":"","IndustryCode":"","statuscode":null,"ProcessingFeeAmount":null,"ProcessingFeeStatus":null,"PaymentReferenceNo":null,"ProcessingFeeRealizationStatus":null,"DemandNoteLink":null,"DemandStatus":null,"DemandReceipt":null,"AllotmentOrderLink":null,"PaymentRealizationReferenceNo":null,"IDCOStatus":null,"successmessage":"APPLICATION IS REACHED AT IDCO END!!","IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
+Time: 27/12/2022 11:34:59 AM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (RESPONSE_FROM_GOSWIFT)--[INPUT_VALIDITY_STATUS]:- 1 <----> [RESPONSE_JSON_STRING]:- {"StatusMsg":"Proposal number can not be blank !","Status":4}
+-----------------------------------------------------------
+Time: 27/12/2022 11:35:24 AM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":null,"CAFNo":"","IndustryCode":"","statuscode":null,"ProcessingFeeAmount":null,"ProcessingFeeStatus":null,"PaymentReferenceNo":null,"ProcessingFeeRealizationStatus":null,"DemandNoteLink":null,"DemandStatus":null,"DemandReceipt":null,"AllotmentOrderLink":null,"PaymentRealizationReferenceNo":null,"IDCOStatus":null,"successmessage":"APPLICATION IS REACHED AT IDCO END!!","IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
+Time: 27/12/2022 11:41:30 AM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":null,"CAFNo":"","IndustryCode":"","statuscode":null,"ProcessingFeeAmount":null,"ProcessingFeeStatus":null,"PaymentReferenceNo":null,"ProcessingFeeRealizationStatus":null,"DemandNoteLink":null,"DemandStatus":null,"DemandReceipt":null,"AllotmentOrderLink":null,"PaymentRealizationReferenceNo":null,"IDCOStatus":null,"successmessage":"APPLICATION IS REACHED AT IDCO END!!","IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
+Time: 27/12/2022 11:42:44 AM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":null,"CAFNo":"","IndustryCode":"","statuscode":null,"ProcessingFeeAmount":null,"ProcessingFeeStatus":null,"PaymentReferenceNo":null,"ProcessingFeeRealizationStatus":null,"DemandNoteLink":null,"DemandStatus":null,"DemandReceipt":null,"AllotmentOrderLink":null,"PaymentRealizationReferenceNo":null,"IDCOStatus":null,"successmessage":"APPLICATION IS REACHED AT IDCO END!!","IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
+Time: 27/12/2022 11:43:41 AM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":null,"CAFNo":"","IndustryCode":"","statuscode":null,"ProcessingFeeAmount":null,"ProcessingFeeStatus":null,"PaymentReferenceNo":null,"ProcessingFeeRealizationStatus":null,"DemandNoteLink":null,"DemandStatus":null,"DemandReceipt":null,"AllotmentOrderLink":null,"PaymentRealizationReferenceNo":null,"IDCOStatus":null,"successmessage":"APPLICATION IS REACHED AT IDCO END!!","IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
+Time: 27/12/2022 01:21:25 PM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":null,"CAFNo":"","IndustryCode":"","statuscode":null,"ProcessingFeeAmount":null,"ProcessingFeeStatus":null,"PaymentReferenceNo":null,"ProcessingFeeRealizationStatus":null,"DemandNoteLink":null,"DemandStatus":null,"DemandReceipt":null,"AllotmentOrderLink":null,"PaymentRealizationReferenceNo":null,"IDCOStatus":null,"successmessage":"APPLICATION IS REACHED AT IDCO END!!","IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
+Time: 27/12/2022 02:28:02 PM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":null,"CAFNo":"","IndustryCode":"","statuscode":null,"ProcessingFeeAmount":null,"ProcessingFeeStatus":null,"PaymentReferenceNo":null,"ProcessingFeeRealizationStatus":null,"DemandNoteLink":null,"DemandStatus":null,"DemandReceipt":null,"AllotmentOrderLink":null,"PaymentRealizationReferenceNo":null,"IDCOStatus":null,"successmessage":"APPLICATION IS REACHED AT IDCO END!!","IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
+Time: 27/12/2022 02:31:13 PM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":null,"CAFNo":"","IndustryCode":"","statuscode":null,"ProcessingFeeAmount":null,"ProcessingFeeStatus":null,"PaymentReferenceNo":null,"ProcessingFeeRealizationStatus":null,"DemandNoteLink":null,"DemandStatus":null,"DemandReceipt":null,"AllotmentOrderLink":null,"PaymentRealizationReferenceNo":null,"IDCOStatus":null,"successmessage":"APPLICATION IS REACHED AT IDCO END!!","IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
+Time: 27/12/2022 02:31:36 PM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":null,"CAFNo":"","IndustryCode":"","statuscode":null,"ProcessingFeeAmount":null,"ProcessingFeeStatus":null,"PaymentReferenceNo":null,"ProcessingFeeRealizationStatus":null,"DemandNoteLink":null,"DemandStatus":null,"DemandReceipt":null,"AllotmentOrderLink":null,"PaymentRealizationReferenceNo":null,"IDCOStatus":null,"successmessage":"APPLICATION IS REACHED AT IDCO END!!","IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
+Time: 27/12/2022 02:34:35 PM For RequestMethod: UpdatePEALIngrationWithIDCOStatus
+InputOutput: (REQUEST_FROM_ERP)--[REQUEST_JSON_STRING]:- {"ProposalNo":null,"CAFNo":"","IndustryCode":"","statuscode":null,"ProcessingFeeAmount":null,"ProcessingFeeStatus":null,"PaymentReferenceNo":null,"ProcessingFeeRealizationStatus":null,"DemandNoteLink":null,"DemandStatus":null,"DemandReceipt":null,"AllotmentOrderLink":null,"PaymentRealizationReferenceNo":null,"IDCOStatus":null,"successmessage":"APPLICATION IS REACHED AT IDCO END!!","IDCOLandAllotment":null,"IDCOAmount":null}
+-----------------------------------------------------------
