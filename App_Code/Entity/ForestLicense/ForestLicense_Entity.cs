@@ -37,6 +37,6 @@ namespace EntityLayer.ForestLicenseEntity
         public int Status { get; set; }
         public string OutMessage { get; set; }
 
-        public int Status1 { get; set; } // example
+        
     }
 }
